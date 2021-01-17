@@ -1,0 +1,8 @@
+name: HGOAutoKeyboardLayout
+version: 1.3
+main: org.hurricanegames.autokeyboardlayout.AutoKeyboardLayoutPlugin
+api-version: 1.13
+
+website: 'https://github.com/HurricaneGamesOrg/HurricaneGamesOrgAutoKeyboardLayout'
+authors:
+- _Shevchik_
